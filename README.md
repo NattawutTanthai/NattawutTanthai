@@ -1,4 +1,4 @@
-<h2>Hello Everyong, My name is Chitsanuphong Chaihong (Tanny) 👋</h2>
+<h2>Hello Everyong, My name is Nattawut Rattanabucha (Tanny) 👋</h2>
 This is my github profile. ☺
 <br><br>
 
