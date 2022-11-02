@@ -14,8 +14,8 @@ This is my github profile. ☺
 ![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
 ![JS&TS](https://img.shields.io/badge/-JS&TS-blueviolet?style=for-the-badge)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csnpch&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csnpch&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NattawutTanthai&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NattawutTanthai&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=erictyth&hide=javascript,html&show_icons=true&theme=radical) -->
 
 
