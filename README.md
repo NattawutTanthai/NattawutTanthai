@@ -9,7 +9,7 @@ This is my github profile. ☺
 ![python](https://img.shields.io/badge/-python-goldenrod?style=for-the-badge)
 ![html](https://img.shields.io/badge/-html-darkgoldenrod?style=for-the-badge)
 ![css](https://img.shields.io/badge/-css-rosybrown?style=for-the-badge)
-![Javascript](https://img.shields.io/badge/-css-indianred?style=for-the-badge)
+![Javascript](https://img.shields.io/badge/-javascript-indianred?style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NattawutTanthai&show_icons=true&theme=tokyonight)
 
