@@ -3,12 +3,15 @@ This is my github profile. ☺
 <br><br>
 
 ![nextJS](https://img.shields.io/badge/-nextJS-goldenrod?style=for-the-badge)
+![reactJS](https://img.shields.io/badge/-reactJS-goldenrod?style=for-the-badge)
+![react-native](https://img.shields.io/badge/-reactnative-indianred?style=for-the-badge)
 ![node](https://img.shields.io/badge/-node-darkgoldenrod?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-rosybrown?style=for-the-badge)
 ![mongoDB](https://img.shields.io/badge/-mongoDB-indianred?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-goldenrod?style=for-the-badge)
 ![html](https://img.shields.io/badge/-html-darkgoldenrod?style=for-the-badge)
 ![css](https://img.shields.io/badge/-css-rosybrown?style=for-the-badge)
+![php](https://img.shields.io/badge/-php-goldenrod?style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/-javascript-indianred?style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NattawutTanthai&show_icons=true&theme=tokyonight)
