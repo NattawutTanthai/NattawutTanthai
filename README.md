@@ -2,7 +2,7 @@
 This is my github profile. ☺
 <br><br>
 
-![nextJS](https://img.shields.io/badge/-nextJS-goldenrod?style=for-the-badge)
+<!-- ![nextJS](https://img.shields.io/badge/-nextJS-goldenrod?style=for-the-badge)
 ![reactJS](https://img.shields.io/badge/-reactJS-goldenrod?style=for-the-badge)
 ![react-native](https://img.shields.io/badge/-reactnative-indianred?style=for-the-badge)
 ![node](https://img.shields.io/badge/-node-darkgoldenrod?style=for-the-badge)
@@ -12,11 +12,11 @@ This is my github profile. ☺
 ![html](https://img.shields.io/badge/-html-darkgoldenrod?style=for-the-badge)
 ![css](https://img.shields.io/badge/-css-rosybrown?style=for-the-badge)
 ![php](https://img.shields.io/badge/-php-goldenrod?style=for-the-badge)
-![Javascript](https://img.shields.io/badge/-javascript-indianred?style=for-the-badge)
+![Javascript](https://img.shields.io/badge/-javascript-indianred?style=for-the-badge) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NattawutTanthai&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NattawutTanthai&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NattawutTanthai&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NattawutTanthai&hide=css,scss,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Language's](https://github-readme-stats.vercel.app/api/top-langs/?username=erictyth&hide=javascript,html&show_icons=true&theme=radical) -->
 
 
