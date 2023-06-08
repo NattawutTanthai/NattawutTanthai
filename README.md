@@ -40,3 +40,7 @@ This is my github profile. ☺
    </tr>
 
 </table>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Tanny&label=Profile%20Views&pretty=false" />
+</a>
