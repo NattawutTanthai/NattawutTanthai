@@ -3,7 +3,7 @@ Hi 👋 My name is Nattawut Rattanabucha
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at [erictyth@gmail.com](mailto:erictyth@gmail.com)
-* 🚀  I'm currently working on [Protoss Technology Co.,Ltd.](http://www.protosstechnology.com)
+* 🚀  I'm currently working on [M Intelligence Co.,Ltd.](https://m-intelligence.tech/)
 
 ### Skills
 
